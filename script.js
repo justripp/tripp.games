@@ -1,6 +1,3 @@
-const chessLink = "";
-const pongLink = '';
-const tetrisLink = '';
 const chatLink = 'http://tripp.chat';
 
 const chessBtn = document.getElementById("ChessBtn");
