@@ -6,7 +6,7 @@ const chatBtn = document.getElementById("ChatBtn");
 
 
 function chessOpen(){
-    window.open("http://172.236.127.104:3037")
+    window.open("chess.tripp.games")
 }
 
 function chatOpen(){
