@@ -10,5 +10,5 @@ function chessOpen(){
 }
 
 function chatOpen(){
-    window.open("https://tripp.chat")
+    window.open("http://dots.tripp.games")
 }
